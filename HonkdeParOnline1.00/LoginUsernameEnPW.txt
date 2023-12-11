@@ -1,9 +1,1 @@
-Username: Honke
-Wachtwoord: ZoalsHetOoitWas4444
 
-
-
-Nieuw wachtwoord aanmaken:
-//$hashed_password = password_hash("ZoalsHetOoitWas4444", PASSWORD_DEFAULT);
-//echo '<p>'.$hashed_password.'</p>';
-En dan vervangen in the db
