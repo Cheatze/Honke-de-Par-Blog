@@ -65,7 +65,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id`, `username`, `password`, `email`) VALUES
-(1, 'Honke', '$2y$10$XiNum554KW1ib54vpn/ThOTilH6OWcErFWqElHMmpGbeC7mELaNDi', '');
+(1, 'Honke', '', '');
 
 -- --------------------------------------------------------
 
